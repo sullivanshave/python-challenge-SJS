@@ -1,0 +1,10 @@
+Election Results 
+------------------------- 
+Total Votes:  + str(row_count) 
+------------------------- 
+Charles Casper Stockham: 
+Diana DeGette: 
+Raymon Anthony Doane: 
+------------------------- 
+Winner: 
+------------------------- 
